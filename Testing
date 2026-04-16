@@ -1,0 +1,15 @@
+What is testing?
+
+Two ttypes of testing
+- Manual testing: you cant test hybrid things complex and other scenarious
+- Automatic testing: standard way and it will be very nice since it covers the all aspects most scenarious
+
+Types of automating tetsings
+- unit test : dozens of testing and are highly appreaciated becuase they test each individual block (components, functions) in an isolation
+- integreation test : few testings because they testing multiple integrated components together and how they work
+- E2E testing : very very few beacuase can be donepartially  manually its like a real user from entry to end like all complete flow and very complex
+
+
+What to Test and How to test?
+Test - in unit test we test single components anad fnctions as isolation
+how? - using scnerious like success,fail and rare which posiblle but less likely to occur
